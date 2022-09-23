@@ -1,3 +1,4 @@
+
 <h1 align="center">Squad Sarah Gilbert</h1>
 
 
@@ -8,16 +9,17 @@
 
 <h2> Descrição </h2
 
-## O projeto consiste em constrtuir uma plataforma E-commerce de Tecnologia, usando CRUD (Create, Read, Update e Delete) em um banco de dados para Cadastro e Consulta de Clientes, usando C# como linguagem de programação e .Net como framework.
-
-
+## O projeto consiste em construir uma plataforma E-commerce de Tecnologia, usando CRUD (Create, Read, Update e Delete) em um banco de dados para Cadastro e Consulta de Clientes, usando C# como linguagem de programação, SQL como linguagem de consulta e .Net 5 como framework.
+  
+  
 ## Ferramentas
 
 📌Visual studio
 📌SQL SERVER EXPRESS 2019
 📌SQL SERVE MANAGEMENT STUDIO
-📌
-📌
+📌 .NET 5
+📌 ASP NET CORE MVC
+
 
 
 
@@ -27,3 +29,4 @@
 - Jéssica Ricão
 - Taís Nazaré
 - Ester Calixto
+
